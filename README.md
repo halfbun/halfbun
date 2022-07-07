@@ -1,4 +1,4 @@
-## Hi 👋 I'm Dimas Iqbal Pradana
+## Hello There :bearded_person: I'm Dimas Iqbal Pradana
 
 # I'm a Freelancer Web & Mobile App Developer
 
@@ -18,5 +18,10 @@ My Website : [halfbun.github.io](https:://halfbun.github.io)
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" />
 
+<br/>
+
+## Github Stats
+
+[![Dimas Iqbal Pradana's github stats](https://github-readme-stats.vercel.app/api?username=halfbun&include_all_commits=true&hide=stars,prs&count_private=true&show_icons=true&theme=vue)](https://github.com/halfbun/github-readme-stats)
 
 
